@@ -1,0 +1,19 @@
+{
+  "name": "aj-component-library",
+  "version": "1.0.0",
+  "description": "A React component library for SVGs, Footers and more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnkitJAbraham/aj-component-library.git"
+  },
+  "author": "Ankit John Abraham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnkitJAbraham/aj-component-library/issues"
+  },
+  "homepage": "https://github.com/AnkitJAbraham/aj-component-library#readme"
+}
