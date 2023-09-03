@@ -1,6 +1,10 @@
 {
   "name": "aj-component-library",
+<<<<<<< HEAD
   "version": "1.0.2",
+=======
+  "version": "1.0.1",
+>>>>>>> fd0640df691715969020b121654387ab0a87c8be
   "description": "A React component library for SVGs, Footers and more.",
   "main": "src/index.js",
   "keywords": [
