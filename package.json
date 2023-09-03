@@ -1,6 +1,6 @@
 {
   "name": "aj-component-library",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A React component library for SVGs, Footers and more.",
   "main": "src/index.js",
   "keywords": [
@@ -27,7 +27,7 @@
   "peerDependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
-  },  
+  },
   "devDependencies": {
     "@babel/core": "^7.22.11",
     "@babel/preset-react": "^7.22.5"
